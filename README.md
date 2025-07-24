@@ -15,6 +15,7 @@ Note: You must install the following packages before running this script.
 pip install requests beautifulsoup4 pandas selenium webdriver-manager
 
 There’s also a second version of this script (OpenAI-Seo-Analysis.py) that runs the full process automatically using the OpenAI API.
-To use it, make sure to add your own OpenAI API key.
+To use it, make sure to add your own OpenAI API key and install the following packages before running the script.
+pip install selenium webdriver-manager beautifulsoup4 pandas openai tiktoken
 
 Have fun optimizing!
